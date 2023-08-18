@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/Abstract/Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array List/Array List.iml" filepath="$PROJECT_DIR$/Array List/Array List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Box/Box.iml" filepath="$PROJECT_DIR$/Box/Box.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CT3/CT3.iml" filepath="$PROJECT_DIR$/CT3/CT3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CT4/CT4.iml" filepath="$PROJECT_DIR$/CT4/CT4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Call by Value/Call by Value.iml" filepath="$PROJECT_DIR$/Call by Value/Call by Value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Call by value-reference/Call by value-reference.iml" filepath="$PROJECT_DIR$/Call by value-reference/Call by value-reference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coffee Shop/Coffee Shop.iml" filepath="$PROJECT_DIR$/Coffee Shop/Coffee Shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection in Java/Collection in Java.iml" filepath="$PROJECT_DIR$/Collection in Java/Collection in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparable Interface/Comparable Interface.iml" filepath="$PROJECT_DIR$/Comparable Interface/Comparable Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Copy Constructor/Copy Constructor.iml" filepath="$PROJECT_DIR$/Copy Constructor/Copy Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File/File.iml" filepath="$PROJECT_DIR$/File/File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI/GUI.iml" filepath="$PROJECT_DIR$/GUI/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jacked Array/Jacked Array.iml" filepath="$PROJECT_DIR$/Jacked Array/Jacked Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab Final/Lab Final.iml" filepath="$PROJECT_DIR$/Lab Final/Lab Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab Project/Lab Project.iml" filepath="$PROJECT_DIR$/Lab Project/Lab Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoginFormDemo/LoginFormDemo.iml" filepath="$PROJECT_DIR$/LoginFormDemo/LoginFormDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mid Practice/Mid Practice.iml" filepath="$PROJECT_DIR$/Mid Practice/Mid Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nested Class/Nested Class.iml" filepath="$PROJECT_DIR$/Nested Class/Nested Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static Method/Static Method.iml" filepath="$PROJECT_DIR$/Static Method/Static Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticVariable/StaticVariable.iml" filepath="$PROJECT_DIR$/StaticVariable/StaticVariable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wrapper Class/Wrapper Class.iml" filepath="$PROJECT_DIR$/Wrapper Class/Wrapper Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/equals vs equal2/equals vs equal2.iml" filepath="$PROJECT_DIR$/equals vs equal2/equals vs equal2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam/exam.iml" filepath="$PROJECT_DIR$/exam/exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finalFileWithArrayList/finalFileWithArrayList.iml" filepath="$PROJECT_DIR$/finalFileWithArrayList/finalFileWithArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finalll/finalll.iml" filepath="$PROJECT_DIR$/finalll/finalll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsfjash/jsfjash.iml" filepath="$PROJECT_DIR$/jsfjash/jsfjash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login FOrm/login FOrm.iml" filepath="$PROJECT_DIR$/login FOrm/login FOrm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qstn/qstn.iml" filepath="$PROJECT_DIR$/qstn/qstn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supeerhero/supeerhero.iml" filepath="$PROJECT_DIR$/supeerhero/supeerhero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teatAdvanceArithmetic/teatAdvanceArithmetic.iml" filepath="$PROJECT_DIR$/teatAdvanceArithmetic/teatAdvanceArithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xm/xm.iml" filepath="$PROJECT_DIR$/xm/xm.iml" />
+    </modules>
+  </component>
+</project>
